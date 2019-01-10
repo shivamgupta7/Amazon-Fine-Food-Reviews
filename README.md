@@ -26,6 +26,6 @@ Attribute Information:
 Objective:
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
-1.Perform EDA
-2.TSNE
-3.KNN
+1. Perform EDA
+2. TSNE
+3. KNN
