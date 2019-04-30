@@ -29,3 +29,8 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 1. Perform EDA
 2. TSNE
 3. KNN
+4. Naive Bayes
+5. Logistic Regression
+6. Support Vector Machine
+7. Decision Tree
+8. Random Forest and XGBoost
